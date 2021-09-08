@@ -1,0 +1,26 @@
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\bin\Debug\athenas.exe.config
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\bin\Debug\athenas.exe
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\bin\Debug\athenas.pdb
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.csproj.AssemblyReference.cache
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.Properties.Resources.resources
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.csproj.GenerateResource.cache
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.csproj.CoreCompileInputs.cache
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.exe
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.pdb
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.Home.resources
+D:\Coisas do Matheus\Faculdades\UNIP\AthenaDesktop\athenas\athenas\obj\Debug\athenas.Login.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\bin\Debug\athenas.exe.config
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\bin\Debug\athenas.exe
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\bin\Debug\athenas.pdb
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Home.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Login.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.exe
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.pdb
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Cadastrores.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Consultar_e_atualizar.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.Cadlog.resources
+C:\Users\Usuário\Desktop\Teste AthenaPalace\athenas\athenas\obj\Debug\athenas.FormsFuncionario.resources
